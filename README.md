@@ -4,7 +4,7 @@
 - Python
 - Rust
 - JavaScript
-- Go (beginner)
+- Go
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=harish3124&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
